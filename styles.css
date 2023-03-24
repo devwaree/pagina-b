@@ -5,6 +5,7 @@ body {
 
 button {
   cursor: pointer;
+  color: #000;
 }
 
 .container {
@@ -599,6 +600,10 @@ footer p {
   footer p {
     font-size: 14px;
     text-align: center;
+  }
+
+  .bg-section-3 {
+    margin-top: 0;
   }
 }
 
