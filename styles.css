@@ -605,6 +605,10 @@ footer p {
   .bg-section-3 {
     margin-top: 0;
   }
+
+  .group-form h1 {
+    font-size: 35px;
+  }
 }
 
 /* width */
